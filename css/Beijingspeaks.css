@@ -1,0 +1,59 @@
+.BS{
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Slabo 27px', serif;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Bree Serif', serif;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 20px;
+	
+}
+
+.BS2{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Slabo 27px', serif;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Bree Serif', serif;
+	font-family: 'Kaushan Script', cursive;
+	font-family: 'Arapey', serif;
+	font-family: 'EB Garamond', serif;
+	font-family: 'Cinzel', serif;
+	text-align: center;
+	font-size: 35px;
+}
+
+.image-size{
+	width: 100%;
+}
+
+.BS3{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Slabo 27px', serif;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Bree Serif', serif;
+	font-family: 'Kaushan Script', cursive;
+	font-family: 'EB Garamond', serif;
+	font-family: 'Cinzel', serif;
+	font-family: 'Arapey', serif;
+	text-align: left;
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+.image-image{
+	padding-top: 15px;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 25px;
+	width: 100%;
+}
+
+
+
+
+
+
+
